@@ -559,7 +559,7 @@ while x < 9:
     print(f"x is {x}")
 """  # Class
 """
-#files and exceptions
+#files
 with open('pi_digits.txt') as file_object:
     contents = file_object.read()
     for content in contents:
