@@ -1,6 +1,9 @@
 """             #descriptive notes
 # temp = 99.5     #assignment_statement
 #temp is an identifier and 99.5 is the object
+
+# accessors - methods that return state of an object but does not change state
+# mutators - same as above but change state
 """
 
 """             #list_intro
