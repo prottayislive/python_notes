@@ -4,6 +4,11 @@
 
 # accessors - methods that return state of an object but does not change state
 # mutators - same as above but change state
+
+# for a bool() class 
+# if bool() is empty it returns false
+# if number is 0 it returns false
+#if a squence is empty it returns false
 """
 
 """             #list_intro
