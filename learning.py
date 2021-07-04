@@ -1,3 +1,8 @@
+"""             #descriptive notes
+# temp = 99.5     #assignment_statement
+#temp is an identifier and 99.5 is the object
+"""
+
 """             #list_intro
 cars = ['Porsche', 'BMW', 'Audi', 'Ferrari', 'Mustang', 'Hyundai']
 print(cars)
