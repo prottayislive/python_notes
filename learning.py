@@ -9,6 +9,12 @@
 # if bool() is empty it returns false
 # if number is 0 it returns false
 #if a squence is empty it returns false
+
+# a string can be written using -> ' ', " ", """ """
+# the first two are pretty obvious but when using """ """, you don't have to use \n
+example = """I went to the market
+              today. And saw my aunt
+              picking apples."""
 """
 
 """             #list_intro
