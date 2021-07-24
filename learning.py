@@ -13,7 +13,7 @@
 # a string can be written using -> ' ', " ", """ """
 # the first two are pretty obvious but when using """ """, you don't have to use \n
 example = """I went to the market
-              today. And saw my aunt
+              today. I saw my aunt
               picking apples."""
 """
 
@@ -427,7 +427,7 @@ def send_messages(sent_messages):
         sent_messages.append(complete)
 
 
-messages = ["Hi! I am", "Prottay", "Nice to meet You"]
+messages = ["Hi! I am", "Prottay", "Nice to meet You"] # always better to use f"" format
 sent_messages = []
 show_messages(messages)
 send_messages(sent_messages)
@@ -590,3 +590,4 @@ with open('pi_digits.txt') as file_object:
 """
 # test
 # exception handling
+#PEP overview is welcome
