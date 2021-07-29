@@ -9,4 +9,4 @@ To view how each code works remove the """ """ from the begining and ending of e
 Recommended Resources:
 
 * Python Crash Course Book
-* The Complete Python Course For Beginners - Tech With Tim (https://www.youtube.com/watch?v=sxTmJE4k0ho)
+* [The Complete Python Course For Beginners - Tech With Tim](https://www.youtube.com/watch?v=sxTmJE4k0ho) - Follow this channel for everything python!
